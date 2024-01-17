@@ -1,0 +1,5 @@
+C:\Users\쑤\Desktop\GouraudShading\Release\CG_0427a.exe
+C:\Users\쑤\Desktop\오목눈이\GouraudShading\Release\CG_0427a.exe
+C:\Users\쑤\Desktop\그래픽스 프로젝트\프로젝트_1\GouraudShading\Release\CG_0427a.exe
+C:\Users\쑤\Desktop\그래픽스 프로젝트\마법 벡업\GouraudShading\Release\CG_0427a.exe
+C:\Users\쑤\Desktop\ComputerGraphics_project\Magic_backup\GouraudShading\Release\CG_0427a.exe
